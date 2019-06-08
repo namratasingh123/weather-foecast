@@ -19,6 +19,7 @@ npm i
 npm run start:dev
 
 ```
+localhost:8080
 
 ## Build
 ```
