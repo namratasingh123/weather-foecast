@@ -8,7 +8,7 @@
 ## Run
 ```
 git clone
-cd react-weather-task
+cd weather-foecast or whatever is the folder name.
 npm i
 ```
 
